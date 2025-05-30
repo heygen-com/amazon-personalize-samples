@@ -10,3 +10,4 @@ json_input.*
 __pycache__/
 .pytest_cache
 .venv
+~/.aws/config
